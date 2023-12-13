@@ -5,6 +5,8 @@
 
 - 🌱 Atualmente estou me aprendendo **Pentaho e Python**
 
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.linkedin.com/in/rafaellima1989/](https://www.linkedin.com/in/rafaellima1989/)
+
 - 💬Me pergunte sobre **SQL, Power BI, Excel**
 
 - 📫 Você me acha atraves do e-mail **raffaell2008@hotmail.com**
