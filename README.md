@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Rafael Lima</h1>
-<h3 align="center">👨‍💼 Profissional de TI e Administração com paixão pela Análise de Dados 📊</h3>
+<h3 align="center">👨‍💼 Profissional de TI e Administração com paixão pela Análise de Dados </h3>
 
 - 🏢  Atualmente atuando como  Analista Administrativo com habilidades em administração de servidores Windows, suporte a usuários, *criação de relatórios e dashboards* com *Power BI*, *logística* e *rotinas administrativas*
 
