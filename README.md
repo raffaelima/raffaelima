@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou o Rafael Lima</h1>
 <h3 align="center">👨‍💼 Profissional de TI e Administração com paixão pela Análise de Dados 📊</h3>
 
-- 🔭 Atualmente atuando como  Analista Administrativo com habilidades em administração de servidores Windows, suporte a usuários, *criação de relatórios e dashboards* com *Power BI*, *logística* e *rotinas administrativas*
+- 🏢  Atualmente atuando como  Analista Administrativo com habilidades em administração de servidores Windows, suporte a usuários, *criação de relatórios e dashboards* com *Power BI*, *logística* e *rotinas administrativas*
 
-- 🌱 Atualmente estou aprendendo **Pentaho e Python**
+- 📚  Atualmente estou aprendendo **Pentaho e Python**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.linkedin.com/in/rafaellima1989/](https://www.linkedin.com/in/rafaellima1989/)
 
